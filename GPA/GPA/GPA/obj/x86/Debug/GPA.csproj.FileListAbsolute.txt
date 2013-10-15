@@ -1,0 +1,10 @@
+G:\GPA\GPA\GPA\bin\Debug\GPA.exe
+G:\GPA\GPA\GPA\bin\Debug\GPA.pdb
+G:\GPA\GPA\GPA\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\GPA\GPA\GPA\obj\x86\Debug\GPA.Form1.resources
+G:\GPA\GPA\GPA\obj\x86\Debug\GPA.Form2.resources
+G:\GPA\GPA\GPA\obj\x86\Debug\GPA.Properties.Resources.resources
+G:\GPA\GPA\GPA\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\GPA\GPA\GPA\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\GPA\GPA\GPA\obj\x86\Debug\GPA.exe
+G:\GPA\GPA\GPA\obj\x86\Debug\GPA.pdb
